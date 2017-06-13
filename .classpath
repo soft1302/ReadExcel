@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="src/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="src/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="src/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="src/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="src/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="src/gson-2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
